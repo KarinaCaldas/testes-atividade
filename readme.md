@@ -48,7 +48,7 @@ O site escolhido para os testes é [Midas Touch](https://www.midastouch.com.br).
 
 1. Clone este repositório: 
 ```
-git clone https://github.com/seu-usuario/.git
+git clone https://github.com/KarinaCaldas/testes-atividade
 ```
 2. Instale as dependências:
 ```
